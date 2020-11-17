@@ -1,0 +1,22 @@
+C:\Users\omerh\source\repos\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.deps.json
+C:\Users\omerh\source\repos\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.runtimeconfig.json
+C:\Users\omerh\source\repos\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.runtimeconfig.dev.json
+C:\Users\omerh\source\repos\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.dll
+C:\Users\omerh\source\repos\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.pdb
+C:\Users\omerh\source\repos\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.csproj.CoreCompileInputs.cache
+C:\Users\omerh\source\repos\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.AssemblyInfoInputs.cache
+C:\Users\omerh\source\repos\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.AssemblyInfo.cs
+C:\Users\omerh\source\repos\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.dll
+C:\Users\omerh\source\repos\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.pdb
+C:\Users\omerh\source\repos\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.csprojAssemblyReference.cache
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.deps.json
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.runtimeconfig.json
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.runtimeconfig.dev.json
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.dll
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.pdb
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.csprojAssemblyReference.cache
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.csproj.CoreCompileInputs.cache
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.AssemblyInfoInputs.cache
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.AssemblyInfo.cs
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.dll
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.pdb

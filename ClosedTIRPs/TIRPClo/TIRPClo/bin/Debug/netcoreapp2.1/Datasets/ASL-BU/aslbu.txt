@@ -1,0 +1,5 @@
+Number of Entities: 440
+Number of Symbols Types: 154
+Number of Symbolic Time Intervals: 17961
+Mean Number of Symbolic Time Intervals per Entity: 40.8204545454545
+Mean Symbols Repetition per Entity: 1.44672568587279

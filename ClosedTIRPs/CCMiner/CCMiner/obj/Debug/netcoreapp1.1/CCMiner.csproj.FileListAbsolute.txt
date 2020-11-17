@@ -1,0 +1,6 @@
+C:\Users\omerh\source\repos\CCMiner\CCMiner\bin\Debug\netcoreapp1.1\CCMiner.deps.json
+C:\Users\omerh\source\repos\CCMiner\CCMiner\bin\Debug\netcoreapp1.1\CCMiner.runtimeconfig.json
+C:\Users\omerh\source\repos\CCMiner\CCMiner\bin\Debug\netcoreapp1.1\CCMiner.runtimeconfig.dev.json
+C:\Users\omerh\source\repos\CCMiner\CCMiner\obj\Debug\netcoreapp1.1\CCMiner.csprojAssemblyReference.cache
+C:\Users\omerh\source\repos\CCMiner\CCMiner\obj\Debug\netcoreapp1.1\CCMiner.csproj.CoreCompileInputs.cache
+C:\Users\omerh\source\repos\CCMiner\CCMiner\obj\Debug\netcoreapp1.1\CCMiner.AssemblyInfo.cs

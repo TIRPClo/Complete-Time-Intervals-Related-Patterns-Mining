@@ -1,0 +1,22 @@
+C:\Users\omerh\source\repos\ZMiner\ZMiner\bin\Debug\netcoreapp2.1\ZMiner.deps.json
+C:\Users\omerh\source\repos\ZMiner\ZMiner\bin\Debug\netcoreapp2.1\ZMiner.runtimeconfig.json
+C:\Users\omerh\source\repos\ZMiner\ZMiner\bin\Debug\netcoreapp2.1\ZMiner.runtimeconfig.dev.json
+C:\Users\omerh\source\repos\ZMiner\ZMiner\bin\Debug\netcoreapp2.1\ZMiner.dll
+C:\Users\omerh\source\repos\ZMiner\ZMiner\bin\Debug\netcoreapp2.1\ZMiner.pdb
+C:\Users\omerh\source\repos\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.csprojAssemblyReference.cache
+C:\Users\omerh\source\repos\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.csproj.CoreCompileInputs.cache
+C:\Users\omerh\source\repos\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.AssemblyInfoInputs.cache
+C:\Users\omerh\source\repos\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.AssemblyInfo.cs
+C:\Users\omerh\source\repos\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.dll
+C:\Users\omerh\source\repos\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.pdb
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\ZMiner\ZMiner\bin\Debug\netcoreapp2.1\ZMiner.deps.json
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\ZMiner\ZMiner\bin\Debug\netcoreapp2.1\ZMiner.runtimeconfig.json
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\ZMiner\ZMiner\bin\Debug\netcoreapp2.1\ZMiner.runtimeconfig.dev.json
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\ZMiner\ZMiner\bin\Debug\netcoreapp2.1\ZMiner.dll
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\ZMiner\ZMiner\bin\Debug\netcoreapp2.1\ZMiner.pdb
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.csprojAssemblyReference.cache
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.csproj.CoreCompileInputs.cache
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.AssemblyInfoInputs.cache
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.AssemblyInfo.cs
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.dll
+D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.pdb

@@ -1,0 +1,33 @@
+C:\Users\omerh\source\repos\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.deps.json
+C:\Users\omerh\source\repos\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.runtimeconfig.json
+C:\Users\omerh\source\repos\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.runtimeconfig.dev.json
+C:\Users\omerh\source\repos\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.dll
+C:\Users\omerh\source\repos\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.pdb
+C:\Users\omerh\source\repos\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.csproj.CoreCompileInputs.cache
+C:\Users\omerh\source\repos\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.AssemblyInfoInputs.cache
+C:\Users\omerh\source\repos\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.AssemblyInfo.cs
+C:\Users\omerh\source\repos\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.dll
+C:\Users\omerh\source\repos\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.pdb
+C:\Users\omerh\source\repos\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.csprojAssemblyReference.cache
+D:\AAAI Submission\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.deps.json
+D:\AAAI Submission\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.runtimeconfig.json
+D:\AAAI Submission\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.runtimeconfig.dev.json
+D:\AAAI Submission\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.dll
+D:\AAAI Submission\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.pdb
+D:\AAAI Submission\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.csprojAssemblyReference.cache
+D:\AAAI Submission\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.csproj.CoreCompileInputs.cache
+D:\AAAI Submission\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.AssemblyInfoInputs.cache
+D:\AAAI Submission\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.AssemblyInfo.cs
+D:\AAAI Submission\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.dll
+D:\AAAI Submission\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.pdb
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.deps.json
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.runtimeconfig.json
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.runtimeconfig.dev.json
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.dll
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.pdb
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.csprojAssemblyReference.cache
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.csproj.CoreCompileInputs.cache
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.AssemblyInfoInputs.cache
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.AssemblyInfo.cs
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.dll
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.pdb
