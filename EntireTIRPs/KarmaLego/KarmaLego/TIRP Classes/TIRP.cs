@@ -71,25 +71,29 @@ namespace KarmaLego
             rels[0]     = setFirstRelation;
         }
         //Write the TIRP to file
-        public void WriteTIRPtoFile( TextWriter tw, int[] entitiesVec, int relationStyle)
+        public void WriteTIRPtoFile(string outFile, int[] entitiesVec, int relationStyle)
         {
-            string writeLine = size + " ";
-            string relChars = "";
-            relChars = KLC.ALLEN7_RELCHARS;
-            for (int i = 0; i < size; i++)
-                writeLine = writeLine + symbols[i] + "-";
-            writeLine = writeLine + " ";
-            for (int rIdx = 0; rIdx < size * (size - 1) / 2; rIdx++)
-                    writeLine = writeLine + relChars[rels[rIdx]] + ".";      
-            writeLine = writeLine + " " + supprtingEntities.Count + " " + System.Math.Round((double)tinstancesList.Count / (double)supprtingEntities.Count, 2) + " "; // tinstancesList.Count + " " + supprtingEntities.Count + " ";
-            for (int ins = 0; ins < tinstancesList.Count; ins++)
+            using (FileStream fileStream = new FileStream(outFile, FileMode.Append, FileAccess.Write))
             {
-                writeLine = writeLine + entitiesVec[tinstancesList[ins].entityIdx] + " ";
+                TextWriter tw = new StreamWriter(fileStream);
+                string writeLine = size + " ";
+                string relChars = "";
+                relChars = KLC.ALLEN7_RELCHARS;
+                for (int i = 0; i < size; i++)
+                    writeLine = writeLine + symbols[i] + "-";
+                writeLine = writeLine + " ";
+                for (int rIdx = 0; rIdx < size * (size - 1) / 2; rIdx++)
+                    writeLine = writeLine + relChars[rels[rIdx]] + ".";
+                writeLine = writeLine + " " + supprtingEntities.Count + " " + System.Math.Round((double)tinstancesList.Count / (double)supprtingEntities.Count, 2) + " "; // tinstancesList.Count + " " + supprtingEntities.Count + " ";
+                for (int ins = 0; ins < tinstancesList.Count; ins++)
+                {
+                    writeLine = writeLine + entitiesVec[tinstancesList[ins].entityIdx] + " ";
                     for (int ti = 0; ti < size; ti++)
                         writeLine = writeLine + "[" + tinstancesList[ins].sti[ti].startTime + "-" + tinstancesList[ins].sti[ti].endTime + "]";
-                writeLine = writeLine + " ";
+                    writeLine = writeLine + " ";
+                }
+                tw.WriteLine(writeLine);
             }
-            tw.WriteLine(writeLine);
         }
         //
         public void WriteTIRPtoFile(TextWriter tw, entityKarma[] entitiesVec, int karmalegologi, int[][] logiRelsInxs, int print, int relationStyle)

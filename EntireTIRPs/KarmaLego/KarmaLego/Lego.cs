@@ -55,26 +55,25 @@ namespace KarmaLego
                         }
                         tw.WriteLine("1 " + symbolID + "- -. " + k.getSymbolByIDVerticalSupport(symbolID) + " " + Math.Round((double)k.getSymbolByIDVerticalSupport(symbolID), 2) + instances);
                         #endregion
-                        //For each second symbol
-                        foreach (Symbol symbol2 in k.getSymbolicTimeIntervals())
+                    }
+                    //For each second symbol
+                    foreach (Symbol symbol2 in k.getSymbolicTimeIntervals())
+                    {
+                        //And for each relation
+                        for (int rel = 0; rel < relStyle; rel++)
                         {
-                            //And for each relation
-                            for (int rel = 0; rel < relStyle; rel++)
+                            //If the <symbol1,symbol2,relation> entry in the index is frequent
+                            if (k.karma.GetVerticalSupportOfSymbolToSymbolRelation(t1Idx, symbol2.SymbolINDEX, rel) >= k.getMinVerSup())
                             {
-                                //If the <symbol1,symbol2,relation> entry in the index is frequent
-                                if (k.karma.GetVerticalSupportOfSymbolToSymbolRelation(t1Idx, symbol2.SymbolINDEX, rel) >= k.getMinVerSup())
-                                {
-                                    //Print the 2-sized TIRP to file
-                                    TIRP twoSzdTIRP = k.GetTwoSizedTirpForSymbolsAndRel(symbolID, symbol2.symbolID, rel);
-                                    Lego lego = new Lego(k);
-                                    twoSzdTIRP.WriteTIRPtoFile(tw, k.getEntitiesVec(), relStyle);
-                                    //Extend it recursively
-                                    lego.DoLego(twoSzdTIRP, tw, relStyle);
-                                    lego = null;
-                                }
+                                //Print the 2-sized TIRP to file
+                                TIRP twoSzdTIRP = k.GetTwoSizedTirpForSymbolsAndRel(symbolID, symbol2.symbolID, rel);
+                                Lego lego = new Lego(k);
+                                twoSzdTIRP.WriteTIRPtoFile(outFile, k.getEntitiesVec(), relStyle);
+                                //Extend it recursively
+                                lego.DoLego(outFile, twoSzdTIRP, relStyle);
+                                lego = null;
                             }
                         }
-                        tw.Close();
                     }
                 }
             }
@@ -85,7 +84,7 @@ namespace KarmaLego
         /// <param name="tirp"></param>
         /// <param name="tw"></param>
         /// <param name="relStyle"></param>
-        private void DoLego(TIRP tirp, TextWriter tw, int relStyle)
+        private void DoLego(string outFile, TIRP tirp, int relStyle)
         {
                 List<int[]> candidates = null;
                 foreach (Symbol symbol in karma.getSymbolicTimeIntervals()) // for every symbol...
@@ -99,8 +98,8 @@ namespace KarmaLego
                                     bool seedRelCnndtsEmpty = SearchSupportingInstances(ref tirpNew, tirp.tinstancesList); // Also sets the TIRP supportingEntities field
                                     if (tirpNew.supprtingEntities.Count >= karma.getMinVerSup()) // If the TIRPs vertical support is big enough, write the TIRP and attempt to further extend it
                                     {
-                                        tirpNew.WriteTIRPtoFile(tw, karma.getEntitiesVec(), relStyle); 
-                                        DoLego(tirpNew, tw, relStyle);
+                                        tirpNew.WriteTIRPtoFile(outFile, karma.getEntitiesVec(), relStyle); 
+                                        DoLego(outFile, tirpNew, relStyle);
                                     }
                                 }
                             }

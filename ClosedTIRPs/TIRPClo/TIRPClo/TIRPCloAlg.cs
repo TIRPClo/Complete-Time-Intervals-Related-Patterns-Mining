@@ -8,7 +8,6 @@ namespace TIRPClo
     {
         public static void runTIRPClo(SequenceDB tdb)
         {
-            TIRPsWriter.setUp();
             //int count = 0;
             List<string> rks = new List<string>(); 
             foreach (KeyValuePair<string, MasterTiep> mtiep in TiepsHandler.master_tieps)

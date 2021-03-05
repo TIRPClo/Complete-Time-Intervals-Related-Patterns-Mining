@@ -36,7 +36,6 @@ namespace TIRPClo
             SequenceDB sdb = SequenceDB.createSequencesKLF(Constants.FILE_NAME);
             //Main Algorithm
             TIRPCloAlg.runTIRPClo(sdb);
-            TIRPsWriter.closeOutput();
             long dt2 = DateTime.Now.Ticks / TimeSpan.TicksPerMillisecond;
             long diff = dt2 - dt1;
             Console.WriteLine("Finished Running: support - " + min_support + " gap - " + maximal_gap);

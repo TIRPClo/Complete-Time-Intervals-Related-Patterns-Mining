@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DMAKD Submission\\PaperEvaluation_Code_and_Datasets\\ClosedTIRPs\\CCMiner\\CCMiner\\CCMiner.csproj",
+      "projectUniqueName": "D:\\DMAKD Submission\\Complete-Time-Intervals-Related-Patterns-Mining\\ClosedTIRPs\\CCMiner\\CCMiner\\CCMiner.csproj",
       "projectName": "CCMiner",
-      "projectPath": "D:\\DMAKD Submission\\PaperEvaluation_Code_and_Datasets\\ClosedTIRPs\\CCMiner\\CCMiner\\CCMiner.csproj",
+      "projectPath": "D:\\DMAKD Submission\\Complete-Time-Intervals-Related-Patterns-Mining\\ClosedTIRPs\\CCMiner\\CCMiner\\CCMiner.csproj",
       "packagesPath": "C:\\Users\\omerh\\.nuget\\packages\\",
-      "outputPath": "D:\\DMAKD Submission\\PaperEvaluation_Code_and_Datasets\\ClosedTIRPs\\CCMiner\\CCMiner\\obj\\",
+      "outputPath": "D:\\DMAKD Submission\\Complete-Time-Intervals-Related-Patterns-Mining\\ClosedTIRPs\\CCMiner\\CCMiner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

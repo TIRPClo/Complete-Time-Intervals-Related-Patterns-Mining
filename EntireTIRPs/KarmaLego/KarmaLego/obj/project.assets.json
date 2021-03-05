@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DMAKD Submission\\PaperEvaluation_Code_and_Datasets\\EntireTIRPs\\KarmaLego\\KarmaLego\\KarmaLego.csproj",
+      "projectUniqueName": "D:\\DMAKD Submission\\Complete-Time-Intervals-Related-Patterns-Mining\\EntireTIRPs\\KarmaLego\\KarmaLego\\KarmaLego.csproj",
       "projectName": "KarmaLego",
-      "projectPath": "D:\\DMAKD Submission\\PaperEvaluation_Code_and_Datasets\\EntireTIRPs\\KarmaLego\\KarmaLego\\KarmaLego.csproj",
+      "projectPath": "D:\\DMAKD Submission\\Complete-Time-Intervals-Related-Patterns-Mining\\EntireTIRPs\\KarmaLego\\KarmaLego\\KarmaLego.csproj",
       "packagesPath": "C:\\Users\\omerh\\.nuget\\packages\\",
-      "outputPath": "D:\\DMAKD Submission\\PaperEvaluation_Code_and_Datasets\\EntireTIRPs\\KarmaLego\\KarmaLego\\obj\\",
+      "outputPath": "D:\\DMAKD Submission\\Complete-Time-Intervals-Related-Patterns-Mining\\EntireTIRPs\\KarmaLego\\KarmaLego\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

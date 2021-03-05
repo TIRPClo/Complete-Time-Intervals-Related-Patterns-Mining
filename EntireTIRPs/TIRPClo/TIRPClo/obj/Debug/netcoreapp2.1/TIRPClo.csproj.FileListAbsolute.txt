@@ -20,3 +20,14 @@ D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\TIRPClo\TIRPCl
 D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.AssemblyInfo.cs
 D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.dll
 D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.pdb
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.deps.json
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.runtimeconfig.json
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.runtimeconfig.dev.json
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.dll
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.pdb
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.csprojAssemblyReference.cache
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.csproj.CoreCompileInputs.cache
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.AssemblyInfoInputs.cache
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.AssemblyInfo.cs
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.dll
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.pdb

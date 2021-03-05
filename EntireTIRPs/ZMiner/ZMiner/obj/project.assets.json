@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DMAKD Submission\\PaperEvaluation_Code_and_Datasets\\EntireTIRPs\\ZMiner\\ZMiner\\ZMiner.csproj",
+      "projectUniqueName": "D:\\DMAKD Submission\\Complete-Time-Intervals-Related-Patterns-Mining\\EntireTIRPs\\ZMiner\\ZMiner\\ZMiner.csproj",
       "projectName": "ZMiner",
-      "projectPath": "D:\\DMAKD Submission\\PaperEvaluation_Code_and_Datasets\\EntireTIRPs\\ZMiner\\ZMiner\\ZMiner.csproj",
+      "projectPath": "D:\\DMAKD Submission\\Complete-Time-Intervals-Related-Patterns-Mining\\EntireTIRPs\\ZMiner\\ZMiner\\ZMiner.csproj",
       "packagesPath": "C:\\Users\\omerh\\.nuget\\packages\\",
-      "outputPath": "D:\\DMAKD Submission\\PaperEvaluation_Code_and_Datasets\\EntireTIRPs\\ZMiner\\ZMiner\\obj\\",
+      "outputPath": "D:\\DMAKD Submission\\Complete-Time-Intervals-Related-Patterns-Mining\\EntireTIRPs\\ZMiner\\ZMiner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

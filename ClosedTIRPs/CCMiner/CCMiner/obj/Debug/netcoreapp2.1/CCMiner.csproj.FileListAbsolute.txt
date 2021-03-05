@@ -31,3 +31,14 @@ D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\CCMiner\CCMiner\obj\
 D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.AssemblyInfo.cs
 D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.dll
 D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.pdb
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.deps.json
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.runtimeconfig.json
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.runtimeconfig.dev.json
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.dll
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.pdb
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.csprojAssemblyReference.cache
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.csproj.CoreCompileInputs.cache
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.AssemblyInfoInputs.cache
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.AssemblyInfo.cs
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.dll
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.pdb

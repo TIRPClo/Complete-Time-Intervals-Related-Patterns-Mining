@@ -8,3 +8,14 @@ D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\KarmaLego\Karm
 D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\KarmaLego\KarmaLego\bin\Debug\netcoreapp2.1\KarmaLego.pdb
 D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.dll
 D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.pdb
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\bin\Debug\netcoreapp2.1\KarmaLego.deps.json
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\bin\Debug\netcoreapp2.1\KarmaLego.runtimeconfig.json
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\bin\Debug\netcoreapp2.1\KarmaLego.runtimeconfig.dev.json
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\bin\Debug\netcoreapp2.1\KarmaLego.dll
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\bin\Debug\netcoreapp2.1\KarmaLego.pdb
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.csproj.CoreCompileInputs.cache
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.AssemblyInfoInputs.cache
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.AssemblyInfo.cs
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.dll
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.pdb
+D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.csprojAssemblyReference.cache

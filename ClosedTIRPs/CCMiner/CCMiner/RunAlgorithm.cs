@@ -39,7 +39,6 @@ namespace CCMiner
             TemporalDB tdb = new TemporalDB(Constants.FILE_NAME);
             //Run the main Algorithm
             CTP ctp = CCMiner.ccMiner(tdb, closed);
-            ctp.closeOutput();
             long dt2 = DateTime.Now.Ticks / TimeSpan.TicksPerMillisecond;
             long diff = dt2 - dt1;
             Console.WriteLine("Finished Running: support - " + min_support + " gap - " + maximal_gap);
