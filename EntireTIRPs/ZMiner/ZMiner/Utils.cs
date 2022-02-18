@@ -10,14 +10,14 @@ namespace ZMiner
         string[] possibletypes = {
             "=",
             "S",
-            "fi",
+            "f",
             "c",
             "o",
             "m",
             "<",
         };
 
-        string[] R = { "=", "S", "fi", "c", "o", "m", "<" };
+        string[] R = { "=", "S", "f", "c", "o", "m", "<" };
 
         public static string getRelation(EventInterval A, EventInterval B, Dictionary<string, double> constraints)
         {
@@ -37,7 +37,7 @@ namespace ZMiner
             }
             else if (Math.Abs(B.getEnd() - A.getEnd()) <= epsilon && B.getStart() - A.getStart() > epsilon)
             {
-                relation = "fi";
+                relation = "f";
             }
             else if (B.getStart() - A.getStart() > epsilon && A.getEnd() - B.getEnd() > epsilon)
             {

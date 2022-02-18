@@ -20,3 +20,16 @@ D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\ZMiner\ZMiner\
 D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.AssemblyInfo.cs
 D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.dll
 D:\DMAKD Submission\PaperEvaluation_Code_and_Datasets\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.pdb
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\ZMiner\ZMiner\bin\Debug\netcoreapp2.1\ZMiner.deps.json
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\ZMiner\ZMiner\bin\Debug\netcoreapp2.1\ZMiner.runtimeconfig.json
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\ZMiner\ZMiner\bin\Debug\netcoreapp2.1\ZMiner.runtimeconfig.dev.json
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\ZMiner\ZMiner\bin\Debug\netcoreapp2.1\ZMiner.dll
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\ZMiner\ZMiner\bin\Debug\netcoreapp2.1\ZMiner.pdb
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.csproj.AssemblyReference.cache
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.AssemblyInfoInputs.cache
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.AssemblyInfo.cs
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.csproj.CoreCompileInputs.cache
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.dll
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.pdb
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\ZMiner\ZMiner\obj\Debug\netcoreapp2.1\ZMiner.genruntimeconfig.cache

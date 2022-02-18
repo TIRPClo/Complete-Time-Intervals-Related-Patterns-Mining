@@ -36,7 +36,7 @@ namespace KarmaLego
         public const int ALLEN_BEFORE             = 0; // <
         public const int ALLEN_MEET               = 1; // m
         public const int ALLEN_OVERLAP            = 2; // o
-        public const int ALLEN_FINISHBY           = 3; // fi
+        public const int ALLEN_FINISHBY           = 3; // f
         public const int ALLEN_CONTAIN            = 4; // c 
         public const int ALLEN_EQUAL              = 5; // =	
         public const int ALLEN_STARTS             = 6; // S	

@@ -30,7 +30,7 @@ namespace CCMiner
         public const string ALLEN_BEFORE = "<";
         public const string ALLEN_MEET = "m";
         public const string ALLEN_OVERLAP = "o";
-        public const string ALLEN_FINISHBY = "fi";
+        public const string ALLEN_FINISHBY = "f";
         public const string ALLEN_CONTAIN = "c";
         public const string ALLEN_EQUAL = "=";
         public const string ALLEN_STARTS = "S";	
