@@ -5,43 +5,45 @@ Welcome!
 
 We are extremely happy to submit our paper – **_Complete Mining of Time Intervals-Related Patterns_** to the *ACM Transactions on Knowledge Discovery from Data* journal. 
 
-The paper introduces the **_TIRPClo_** algorithm, which we are happy to make available online.
+The paper introduces the **TIRPClo** algorithm, which we are happy to make available online.
 
-TIRPClo is a time intervals mining algorithm that efficiently and completely discovers:
+TIRPClo is an efficient time intervals mining algorithm which is capable of the complete mining of:
 - The *entire set* of frequent *Time Intervals Related-Patterns (TIRPs)*
 
-- The set of frequent *closed TIRPs*
+- The complete set of frequent *closed TIRPs*
 
 This repository enables the complete reproducibility of our experimental results, 
 and we are highly confident that it will contribute to future research in the field of time intervals mining.
 
 ## Repository Contents
 The contents of this repository are as follows: 
-- The complete implementation of the TIRPClo algorithm, implemented in Visual C#
+- The implementation of the TIRPClo algorithm, implemented in Visual C#
 
-- Implementations of the competitor state-of-the-art methods evaluated in the paper 
+- Implementations of the competitor state-of-the-art methods evaluated in the paper, including:
   - KarmaLego (Moskovitch and Shahar 2015)
   - CCMiner (Chen et al. 2016)
   - ZMiner (Lee at al. 2020)
+  - VertTIRP (Mordvanyuk et al. 2021)
   
-- The time intervals datasets on which the methods' performance has been evaluated in the paper, including various real-world and synthetic datasets
+- All the time intervals datasets on which the methods' performance has been evaluated in the paper, including both the real-world and synthetic datasets
 
 - Our random synthetic datasets generator 
 	 
 ## Code
-In the paper's evaluation TIRPClo is compared to the **_KarmaLego_** and **_ZMiner_** algorithms in the discovery of the _entire_ set of frequent TIRPs, 
-while it is compared to the **_CCMiner_** algorithm in the discovery of the frequent _closed_ TIRPs.
+In the paper's evaluation TIRPClo is compared to the **KarmaLego**, **ZMiner**, and **VertTIRP** algorithms in the discovery of the _entire_ set of frequent TIRPs, 
+while it is compared to the **CCMiner** algorithm in the discovery of the frequent _closed_ TIRPs.
 
 ### Entire Frequent TIRPs Discovery 
 The implementations of the methods for the discovery of all the frequent TIRPs (i.e., TIRPClo, KarmaLego and ZMiner) are available [here](EntireTIRPs), including:
-- **_TIRPClo_**: The code of the TIRPClo algorithm, implemented in Visual C#
-- **_KarmaLego_**: The _original_ C# implementation of the KarmaLego algorithm, provided by (Moskovitch and Shahar 2015)
-- **_ZMiner_**: A C# implementation of the ZMiner algorithm, which is a _step-by-step translation_ of the original [python implementation](https://github.com/zedshape/zminer)</ins> published by the authors (Lee et al. 2020) 
+- **TIRPClo**: The code of the TIRPClo algorithm, implemented in Visual C#
+- **KarmaLego**: The _original_ C# implementation of the KarmaLego algorithm, provided by (Moskovitch and Shahar 2015)
+- **ZMiner**: A C# implementation of the ZMiner algorithm, which is a _step-by-step translation_ of the original [python implementation](https://github.com/zedshape/zminer)</ins> published by the authors (Lee et al. 2020)
+- **VertTIRP**: A C# implementation of the VertTIRP algorithm, which is a _step-by-step translation_ of the original python implementation published by the authors (Mordvanyuk et al. 2021) 
 
 ### Frequent Closed TIRPs Discovery 
 The implementations of the methods for the discovery of the frequent closed TIRPs (i.e., TIRPClo and CCMiner) are available [here](ClosedTIRPs), including:  
-- **_TIRPClo_**: The code of the TIRPClo algorithm, implemented in Visual C#
-- **_CCMiner_**: A Visual C# implementation of the CCMiner algorithm (Chen et al. 2016) 
+- **TIRPClo**: The code of the TIRPClo algorithm, implemented in Visual C#
+- **CCMiner**: A Visual C# implementation of the CCMiner algorithm (Chen et al. 2016) 
 
 ### NOTE 
 In order to conduct a performance evaluation which is as fair comparison as possible of all the compared methods, we made sure that:
@@ -53,7 +55,7 @@ In order to conduct a performance evaluation which is as fair comparison as poss
 
 - Output:
   - The output format of all methods is identical (exaplined in [Output](#Output) in detail)
-  - All methods write to the output file one TIRP at a time (i.e., as soon as a new TIRP is discovered, it is appended to the output of the algorithm), using the exact same code and objects
+  - All methods write to the output file one TIRP at a time, using the exact same code and objects
 
 ## Datasets
 - **_Location_**: All the datasets which have been used for TIRPClo's evaluation are available [here](Datasets) 
@@ -61,9 +63,9 @@ In order to conduct a performance evaluation which is as fair comparison as poss
 - **_Contents_**: 
   - Real-world datasets including all the publicly available time intervals datasets, as well as all the real-world datasets which have been used by the authors of the competitor methods' papers
     - ASL (Papapetrou et al. 2009)
-    - Two versions of the diabetes dataset (Moskovitch and Shahar 2015)
+    - Diabetes (Moskovitch and Shahar 2015)
     - Smart-home (Jakkula and Cook 2011)
-    - ASL-BU, ASL-GT, Blocks, Auslan2, Context, Pioneer and Skating (Mörchen and Fradkin 2010)
+    - ASL-BU, ASL-GT, Blocks, Auslan2, Context, Pioneer, and Skating (Mörchen and Fradkin 2010), and Hepatitis (Patel et al. 2008)
   - Synthetic datasets
     - ST1, ST2, CT1 and CT2
 
@@ -121,13 +123,13 @@ which stores the discovered frequent TIRPs, including their features (e.g., vert
 The following default parameters values are supplied within the _RunAlgorithm.cs_ file, which is available under each algorithm's project directory:
 - _`number of entities=65`_
 - _`minimum vertical support=50%`_
-- _`maximal gap=50`_
-- _`file path='Datasets/ASL/ASL'`_
+- _`maximal gap=30`_
+- _`file path='Datasets/asl/asl'`_
 
 Running the TIRPClo algorithm, for example, with this set of parameters values results in the discovered frequent TIRPs file 
-*"ASL-support-50-maxgap-50.txt"*, as well as the *"ASL-support-50-maxgap-50.txt-stats.txt"* file, 
+*"ASL-support-50-maxgap-30.txt"*, as well as the *"ASL-support-50-maxgap-30.txt-stats.txt"* file, 
 which contains the total time duration of the algorithm's execution. 
-These files are created under the *TIRPClo/TIRPClo/bin/Debug/netcoreapp2.1/Datasets/ASL/* directory.
+These files are created under the *TIRPClo/TIRPClo/bin/Debug/netcoreapp2.1/Datasets/asl/* directory.
  
 ## References
 
@@ -139,6 +141,10 @@ These files are created under the *TIRPClo/TIRPClo/bin/Debug/netcoreapp2.1/Datas
 
 [4] Mörchen, F., & Fradkin, D. (2010, April). Robust mining of time intervals with semi-interval partial order patterns. In Proceedings of the 2010 SIAM international conference on data mining (pp. 315-326). Society for Industrial and Applied Mathematics.
 
-[5] Moskovitch, R., & Shahar, Y. (2015). Fast time intervals mining using the transitivity of temporal relations. Knowledge and Information Systems, 42(1), 21–48.
+[5] Mordvanyuk, N., López, B., & Bifet, A. (2021). vertTIRP: Robust and efficient vertical frequent time interval-related pattern mining. Expert Systems with Applications, 168, 114276.
 
-[6] Papapetrou, P., Kollios, G., Sclaroff, S., & Gunopulos, D. (2009). Mining frequent arrangements of temporal intervals. Knowledge and Information Systems, 21(2), 133.
+[6] Moskovitch, R., & Shahar, Y. (2015). Fast time intervals mining using the transitivity of temporal relations. Knowledge and Information Systems, 42(1), 21–48.
+
+[7] Papapetrou, P., Kollios, G., Sclaroff, S., & Gunopulos, D. (2009). Mining frequent arrangements of temporal intervals. Knowledge and Information Systems, 21(2), 133.
+
+[8] Patel, D., Hsu, W., & Lee, M. L. (2008, June). Mining relationships among interval-based events for classification. In Proceedings of the 2008 ACM SIGMOD international conference on Management of data (pp. 393-404).
