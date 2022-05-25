@@ -19,3 +19,16 @@ D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\
 D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.dll
 D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.pdb
 D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.csprojAssemblyReference.cache
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\bin\Debug\netcoreapp2.1\KarmaLego.deps.json
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\bin\Debug\netcoreapp2.1\KarmaLego.runtimeconfig.json
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\bin\Debug\netcoreapp2.1\KarmaLego.runtimeconfig.dev.json
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\bin\Debug\netcoreapp2.1\KarmaLego.dll
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\bin\Debug\netcoreapp2.1\KarmaLego.pdb
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.csproj.AssemblyReference.cache
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.AssemblyInfoInputs.cache
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.AssemblyInfo.cs
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.csproj.CoreCompileInputs.cache
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.dll
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.pdb
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\KarmaLego\KarmaLego\obj\Debug\netcoreapp2.1\KarmaLego.genruntimeconfig.cache

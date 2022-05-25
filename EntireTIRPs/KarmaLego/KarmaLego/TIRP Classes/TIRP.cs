@@ -93,6 +93,7 @@ namespace KarmaLego
                     writeLine = writeLine + " ";
                 }
                 tw.WriteLine(writeLine);
+                tw.Close();
             }
         }
         //

@@ -55,6 +55,7 @@ namespace KarmaLego
                                 instances += k.getEntityByIdx(userInstances.Key) + " [" + userInstances.Value.ElementAt(j).startTime + "-" + userInstances.Value.ElementAt(j).endTime + "] ";
                         }
                         tw.WriteLine("1 " + symbolID + "- -. " + k.getSymbolByIDVerticalSupport(symbolID) + " " + Math.Round((double)k.getSymbolByIDVerticalSupport(symbolID), 2) + instances);
+                        tw.Close();
                         #endregion
                     }
                     //For each second symbol

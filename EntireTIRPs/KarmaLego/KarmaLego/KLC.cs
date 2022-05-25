@@ -24,9 +24,9 @@ namespace KarmaLego
         public static bool KL_TRANS_YES           = true;
         public static bool KL_TRANS_NO            = false;
         //Maximal number of symbols (does not matter when using hashed index)
-        public static int NUM_OF_SYMBOLS          = 150;
+        public static int NUM_OF_SYMBOLS          = 1000;
         //Mximal number of entities
-        public const int NUM_OF_ENTITIES          = 5000; //0;
+        public const int NUM_OF_ENTITIES          = 50000; //0;
         public static int MAX_TIRP_TONCEPTS_SIZE  = int.MaxValue;
         public static int MAX_TIRP_RELATIONS_SIZE = int.MaxValue;
 

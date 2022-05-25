@@ -42,3 +42,16 @@ D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\
 D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.AssemblyInfo.cs
 D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.dll
 D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.pdb
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.deps.json
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.runtimeconfig.json
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.runtimeconfig.dev.json
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.dll
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\bin\Debug\netcoreapp2.1\CCMiner.pdb
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.csproj.AssemblyReference.cache
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.AssemblyInfoInputs.cache
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.AssemblyInfo.cs
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.csproj.CoreCompileInputs.cache
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.dll
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.pdb
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\ClosedTIRPs\CCMiner\CCMiner\obj\Debug\netcoreapp2.1\CCMiner.genruntimeconfig.cache

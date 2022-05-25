@@ -21,9 +21,9 @@ namespace KarmaLego
             //minimum vertical support percentage
             double min_support = 50;
             //maximal gap
-            int maximal_gap = 50;
+            int maximal_gap = 30;
             //dataset name
-            string file_path = "Datasets/ASL/ASL";
+            string file_path = "Datasets/asl/asl";
             run_algorithm(num_entities, min_support, maximal_gap, file_path);
         }
 
@@ -68,7 +68,7 @@ namespace KarmaLego
             string[] to_write = new string[1];
             to_write[0] = diff + "";
             System.IO.File.WriteAllLines(outFile + "-stats.txt", to_write);
-            //outputConverter(outfile);
+            //outputConverter(outFile);
         }
 
         //Sort output for comparisons

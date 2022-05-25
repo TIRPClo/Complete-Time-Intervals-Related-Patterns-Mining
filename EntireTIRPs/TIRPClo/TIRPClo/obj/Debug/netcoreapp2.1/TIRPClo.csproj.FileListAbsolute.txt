@@ -31,3 +31,16 @@ D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\
 D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.AssemblyInfo.cs
 D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.dll
 D:\DMAKD Submission\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.pdb
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.deps.json
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.runtimeconfig.json
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.runtimeconfig.dev.json
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.dll
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.pdb
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.csproj.AssemblyReference.cache
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.AssemblyInfoInputs.cache
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.AssemblyInfo.cs
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.csproj.CoreCompileInputs.cache
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.dll
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.pdb
+C:\Users\omerh\MyResources\Semesters\מחקר\TIRPClo_Paper\Final Article\Github\Complete-Time-Intervals-Related-Patterns-Mining\EntireTIRPs\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\omerh\source\repos\VertTIRP\VertTIRP\bin\Debug\netcoreapp2.1\VertTIRP.deps.json
+C:\Users\omerh\source\repos\VertTIRP\VertTIRP\bin\Debug\netcoreapp2.1\VertTIRP.runtimeconfig.json
+C:\Users\omerh\source\repos\VertTIRP\VertTIRP\bin\Debug\netcoreapp2.1\VertTIRP.runtimeconfig.dev.json
+C:\Users\omerh\source\repos\VertTIRP\VertTIRP\bin\Debug\netcoreapp2.1\VertTIRP.dll
+C:\Users\omerh\source\repos\VertTIRP\VertTIRP\bin\Debug\netcoreapp2.1\VertTIRP.pdb
+C:\Users\omerh\source\repos\VertTIRP\VertTIRP\obj\Debug\netcoreapp2.1\VertTIRP.csproj.AssemblyReference.cache
+C:\Users\omerh\source\repos\VertTIRP\VertTIRP\obj\Debug\netcoreapp2.1\VertTIRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerh\source\repos\VertTIRP\VertTIRP\obj\Debug\netcoreapp2.1\VertTIRP.AssemblyInfoInputs.cache
+C:\Users\omerh\source\repos\VertTIRP\VertTIRP\obj\Debug\netcoreapp2.1\VertTIRP.AssemblyInfo.cs
+C:\Users\omerh\source\repos\VertTIRP\VertTIRP\obj\Debug\netcoreapp2.1\VertTIRP.csproj.CoreCompileInputs.cache
+C:\Users\omerh\source\repos\VertTIRP\VertTIRP\obj\Debug\netcoreapp2.1\VertTIRP.dll
+C:\Users\omerh\source\repos\VertTIRP\VertTIRP\obj\Debug\netcoreapp2.1\VertTIRP.pdb
+C:\Users\omerh\source\repos\VertTIRP\VertTIRP\obj\Debug\netcoreapp2.1\VertTIRP.genruntimeconfig.cache

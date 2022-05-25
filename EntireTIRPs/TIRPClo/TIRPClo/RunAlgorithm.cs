@@ -16,9 +16,9 @@ namespace TIRPClo
             //minimum vertical support percentage
             double min_support = 50;
             //maximal gap
-            int maximal_gap = 50;
+            int maximal_gap = 30;
             //dataset name
-            string file_path = "Datasets/ASL/ASL";
+            string file_path = "Datasets/asl/asl";
             run_algorithm(num_entities, min_support, maximal_gap, file_path);
         }
 
@@ -32,6 +32,7 @@ namespace TIRPClo
             Constants.MINSUP = (int)dsp == dsp ? (int)dsp : (int)dsp + 1;
             Constants.MAX_GAP = maximal_gap;
             long dt1 = DateTime.Now.Ticks / TimeSpan.TicksPerMillisecond;
+            File.Delete(Constants.OUT_FILE);
             //STIs transformation and index construction 
             SequenceDB sdb = SequenceDB.createSequencesKLF(Constants.FILE_NAME);
             //Main Algorithm
