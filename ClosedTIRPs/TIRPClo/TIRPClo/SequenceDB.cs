@@ -288,7 +288,7 @@ namespace TIRPClo
                     //Add the specific corresponding finish tiep for the recently added start tiep for each record
                     int start_co_index = curr.index;
                     List<Tiep> ms_entity = ms.tiep_occurrences[ent_id];
-                    bool s = false;
+                    /*bool s = false;
                     for (int i = 0; i < ms_entity.Count; i++)
                     {
                         int co_index = ms_entity[i].c.index;
@@ -302,17 +302,16 @@ namespace TIRPClo
                     if (!s)
                     {
                         lack++;
-                    }
-                    //Removed for closed TIRPs discovery
-                    /*int index = entry.Item2.sym_mss[ms_entity[0].sym];
+                    }*/
+                    int index = entry.Item2.sym_mss[ms_entity[0].sym];
                     if (ms_entity[index].c.index >= start_co_index)
                     {
-                        add_to_instances(fin_tiep, ent_id, tuple_index, tieps_instances, index);
+                        add_to_instances(fin_tp, ent_id, tuple_index, tieps_instances, index);
                     }
                     else
                     {
                         lack++;
-                    }*/
+                    }
                     tuple_index++;
                 }
             }
@@ -659,7 +658,7 @@ namespace TIRPClo
                         {
                             foreach (Tiep s in curr.tieps)
                             {
-                                tmp = p + Constants.MEET_REP + s.premitive_rep; 
+                                tmp = p + Constants.MEET_REP + s.premitive_rep;
                                 if (entity_idx == 0 || acc.ContainsKey(tmp))
                                 {
                                     if(!rem.ContainsKey(tmp))
@@ -927,7 +926,7 @@ namespace TIRPClo
             List<string> ents = new List<string>();
             foreach (KeyValuePair<int, List<STI>> entry in fin.indexes)
             {
-                if (st.indexes.ContainsKey(entry.Key) && checkStFinMatch(st.indexes[entry.Key], entry.Value))
+                if (st.indexes.ContainsKey(entry.Key) && checkStFinMatch(st.indexes[entry.Key], entry.Value) && !ents.Contains(trans_db[entry.Key].Item1.entity))
                 {
                     ents.Add(trans_db[entry.Key].Item1.entity);
                 }
@@ -965,7 +964,7 @@ namespace TIRPClo
             List<string> ents = new List<string>();
             foreach (KeyValuePair<int, int> sp_entry in fin.co_starts)
             {
-                if (st.indexes.ContainsKey(sp_entry.Key) && checkStFinMatch(st.indexes[sp_entry.Key], sp_entry.Value))
+                if (st.indexes.ContainsKey(sp_entry.Key) && checkStFinMatch(st.indexes[sp_entry.Key], sp_entry.Value) && !ents.Contains(trans_db[sp_entry.Key].Item1.entity))
                 {
                     ents.Add(trans_db[sp_entry.Key].Item1.entity);
                 }
