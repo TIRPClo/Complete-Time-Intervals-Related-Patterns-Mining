@@ -3,7 +3,7 @@
 ## Introduction 
 Welcome!
 
-We are extremely happy to submit our paper – **_Complete Mining of Time Intervals-Related Patterns_** to the *ACM Transactions on Knowledge Discovery from Data* journal. 
+We are extremely happy to submit our paper – **_Complete Mining of Time Intervals-Related Patterns_** to the *Data Mining and Knowledge Discovery* journal. 
 
 The paper introduces the **TIRPClo** algorithm, which we are happy to make available online.
 
